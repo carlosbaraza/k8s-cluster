@@ -12,3 +12,5 @@ kubectl create -f issuer.yml
 
 # References
 https://cert-manager.readthedocs.io/en/latest/reference/issuers.html
+
+HTTP tutorial: https://cert-manager.readthedocs.io/en/latest/tutorials/acme/http-validation.html
