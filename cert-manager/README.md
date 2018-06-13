@@ -9,3 +9,6 @@ helm install --name cert-manager --namespace kube-system stable/cert-manage
 ```
 kubectl create -f issuer.yml
 ```
+
+# References
+https://cert-manager.readthedocs.io/en/latest/reference/issuers.html
